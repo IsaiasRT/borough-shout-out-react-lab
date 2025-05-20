@@ -1,0 +1,27 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.borough-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.borough-card {
+  width: 100%;
+  padding: 10px 0;
+  margin: 5px 0;
+  text-align: center;
+}
+
+
+
+
